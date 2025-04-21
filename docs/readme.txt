@@ -1,1 +1,1 @@
-estos son los archivos con los cuales probar los modelos
+proyecto de comparaacion de modelos de ollama usando streamlit y RAG.
